@@ -9,6 +9,8 @@
 ## 关联关系映射 (Mapping)
 维护本地开发技能到 GitHub 仓库目录的对应关系：
 - `feishu-image-sender` -> `/Users/bornforthis/OpenClaw-Skills/feishu-image-sender`
+- `feishu-share-link` -> `/Users/bornforthis/OpenClaw-Skills/feishu-share-link`
+- `github-skills-sync` -> `/Users/bornforthis/OpenClaw-Skills/github-skills-sync`
 *(之后有新的 Skills 需要推送到 GitHub 时，会自动加到上面的列表中)*
 
 ## 使用场景
